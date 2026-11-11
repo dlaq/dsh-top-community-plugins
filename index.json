@@ -228,8 +228,8 @@
       },
       "versions": [
         {
-          "version": "0.2.4",
-          "publishTimestamp": 1794114804,
+          "version": "0.2.5",
+          "publishTimestamp": 1794309137,
           "source": {
             "type": "npm"
           },
@@ -482,8 +482,8 @@
       },
       "versions": [
         {
-          "version": "1.4.0",
-          "publishTimestamp": 1794221356,
+          "version": "1.4.1",
+          "publishTimestamp": 1794315332,
           "source": {
             "type": "npm"
           },
@@ -548,8 +548,8 @@
       },
       "versions": [
         {
-          "version": "1.9.62",
-          "publishTimestamp": 1794217029,
+          "version": "1.9.64",
+          "publishTimestamp": 1794320098,
           "source": {
             "type": "npm"
           },
@@ -581,8 +581,8 @@
       },
       "versions": [
         {
-          "version": "2.7.8",
-          "publishTimestamp": 1794238340,
+          "version": "2.7.9",
+          "publishTimestamp": 1794339022,
           "source": {
             "type": "npm"
           },
@@ -707,8 +707,8 @@
       },
       "versions": [
         {
-          "version": "0.8.6",
-          "publishTimestamp": 1793961477,
+          "version": "0.8.7",
+          "publishTimestamp": 1794313079,
           "source": {
             "type": "npm"
           },
@@ -802,8 +802,8 @@
       },
       "versions": [
         {
-          "version": "0.5.43",
-          "publishTimestamp": 1794167255,
+          "version": "0.5.44",
+          "publishTimestamp": 1794345061,
           "source": {
             "type": "npm"
           },
@@ -931,8 +931,8 @@
       },
       "versions": [
         {
-          "version": "0.9.41",
-          "publishTimestamp": 1794235691,
+          "version": "0.9.42",
+          "publishTimestamp": 1794315292,
           "source": {
             "type": "npm"
           },
@@ -1090,8 +1090,8 @@
       },
       "versions": [
         {
-          "version": "0.8.83",
-          "publishTimestamp": 1794237933,
+          "version": "0.8.91",
+          "publishTimestamp": 1794326200,
           "source": {
             "type": "npm"
           },
@@ -1410,8 +1410,8 @@
       },
       "versions": [
         {
-          "version": "1.0.34",
-          "publishTimestamp": 1794211611,
+          "version": "1.0.35",
+          "publishTimestamp": 1794297547,
           "source": {
             "type": "npm"
           },
@@ -1509,8 +1509,8 @@
       },
       "versions": [
         {
-          "version": "0.5.34",
-          "publishTimestamp": 1794269933,
+          "version": "0.5.38",
+          "publishTimestamp": 1794354463,
           "source": {
             "type": "npm"
           },
@@ -1702,8 +1702,8 @@
       },
       "versions": [
         {
-          "version": "0.20.2",
-          "publishTimestamp": 1794242634,
+          "version": "0.20.3",
+          "publishTimestamp": 1794333780,
           "source": {
             "type": "npm"
           },
@@ -1861,8 +1861,8 @@
       },
       "versions": [
         {
-          "version": "0.12.12",
-          "publishTimestamp": 1794272115,
+          "version": "0.12.14",
+          "publishTimestamp": 1794325731,
           "source": {
             "type": "npm"
           },
@@ -1905,8 +1905,8 @@
       "name": "@zaofan/dsh-qqbot",
       "title": "zaofan-make/dsh-qqbot",
       "description": {
-        "en": "QQ official bot channel for DeepSeek Harness (feature-rich fork of tencent-connect/dsh-qqbot): group and private chat with the full agent, sticker library with…",
-        "zh": "接入 QQ 官方机器人的 DeepSeek Harness 通道(tencent-connect/dsh-qqbot 功能增强 fork): 群/私聊与完整 agent 对话、表情包图库(自动打标+AI 斗图)、群管理(入群审批/禁言)、botplay 互动事件卡与翻页目录、用户扩展注册表(自定义斜杠命令与 QQ…"
+        "en": "QQ official bot channel (enhanced fork of tencent-connect/dsh-qqbot): full agent chat in groups and DMs, rich media, an auto-tagged sticker library with AI…",
+        "zh": "QQ 官方机器人通道（tencent-connect/dsh-qqbot 的增强 fork）：群/私聊ai陪聊、富媒体收发、表情包打标入库+检索发图、入群审批/禁言/群发、定时唤醒、QQ 远程审批与提问卡、互动按钮卡、多账号多实例、扩展接口、群友记忆注入、按消息价值唤醒省token、上下文自动压缩、悬浮球设置面板。"
       },
       "homepage": "https://awesome-dsh-plugin.com/p/zaofan-make/dsh-qqbot/",
       "repository": {
@@ -1923,8 +1923,8 @@
       },
       "versions": [
         {
-          "version": "1.12.12",
-          "publishTimestamp": 1794136395,
+          "version": "1.12.19",
+          "publishTimestamp": 1794337789,
           "source": {
             "type": "npm"
           },
@@ -2053,8 +2053,8 @@
       },
       "versions": [
         {
-          "version": "3.2.8",
-          "publishTimestamp": 1794261880,
+          "version": "3.2.10",
+          "publishTimestamp": 1794340063,
           "source": {
             "type": "npm"
           },
