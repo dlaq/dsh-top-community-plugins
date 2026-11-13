@@ -5,8 +5,8 @@
     "zh": "DSH 社区热门插件"
   },
   "description": {
-    "en": "The 60 most-downloaded installable community plugins, ranked by npm downloads (2026-10-13 to 2026-11-11), from the awesome-dsh-plugin catalog. Regenerate with build-top-index.mjs.",
-    "zh": "按 npm 下载量（2026-10-13 至 2026-11-11）排序的 Top 60 可安装社区插件，数据来自 awesome-dsh-plugin 社区目录。运行 build-top-index.mjs 可重新生成。"
+    "en": "The 60 most-downloaded installable community plugins, ranked by npm downloads (2026-10-14 to 2026-11-12), from the awesome-dsh-plugin catalog. Regenerate with build-top-index.mjs.",
+    "zh": "按 npm 下载量（2026-10-14 至 2026-11-12）排序的 Top 60 可安装社区插件，数据来自 awesome-dsh-plugin 社区目录。运行 build-top-index.mjs 可重新生成。"
   },
   "metadata": {
     "categories": {
@@ -160,8 +160,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 3188140,
-          "stars": 6881
+          "downloads": 3175699,
+          "stars": 7093
         }
       },
       "versions": [
@@ -191,14 +191,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 1176287,
-          "stars": 10295
+          "downloads": 1174911,
+          "stars": 12196
         }
       },
       "versions": [
         {
-          "version": "1.73.18",
-          "publishTimestamp": 1794415778,
+          "version": "1.73.19",
+          "publishTimestamp": 1794465678,
           "source": {
             "type": "npm"
           },
@@ -222,14 +222,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 746367,
-          "stars": 132
+          "downloads": 749507,
+          "stars": 896
         }
       },
       "versions": [
         {
-          "version": "0.2.8",
-          "publishTimestamp": 1794398959,
+          "version": "0.2.10",
+          "publishTimestamp": 1794534268,
           "source": {
             "type": "npm"
           },
@@ -254,14 +254,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 543535,
-          "stars": 5347
+          "downloads": 549819,
+          "stars": 6184
         }
       },
       "versions": [
         {
-          "version": "0.4.7",
-          "publishTimestamp": 1794138766,
+          "version": "0.4.8",
+          "publishTimestamp": 1794452690,
           "source": {
             "type": "npm"
           },
@@ -285,14 +285,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 459383,
-          "stars": 4963
+          "downloads": 466375,
+          "stars": 5023
         }
       },
       "versions": [
         {
-          "version": "0.83.1",
-          "publishTimestamp": 1794272083,
+          "version": "0.84.0",
+          "publishTimestamp": 1794479323,
           "source": {
             "type": "npm"
           },
@@ -318,8 +318,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 426708,
-          "stars": 7157
+          "downloads": 416271,
+          "stars": 7173
         }
       },
       "versions": [
@@ -349,14 +349,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 317535,
-          "stars": 5092
+          "downloads": 317119,
+          "stars": 5118
         }
       },
       "versions": [
         {
-          "version": "0.31.1",
-          "publishTimestamp": 1794406078,
+          "version": "0.32.1",
+          "publishTimestamp": 1794491586,
           "source": {
             "type": "npm"
           },
@@ -380,8 +380,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 289197,
-          "stars": 4725
+          "downloads": 293552,
+          "stars": 4945
         }
       },
       "versions": [
@@ -411,8 +411,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 203150,
-          "stars": 5074
+          "downloads": 211298,
+          "stars": 5766
         }
       },
       "versions": [
@@ -425,6 +425,37 @@
           "engines": {
             "dsh": ">=0.2.2-rc.1 <0.2.3-0"
           }
+        }
+      ]
+    },
+    {
+      "name": "cc-safety-net",
+      "title": "kenryu42/cc-safety-net",
+      "description": {
+        "en": "Pre-execution guard that blocks destructive Git and filesystem commands and access to secrets such as SSH keys and .env files before a tool call runs.",
+        "zh": "执行前守卫，在工具调用运行前拦截破坏性 Git 与文件系统命令，以及对 SSH 密钥、.env 等机密文件的访问。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/kenryu42/cc-safety-net/",
+      "repository": {
+        "url": "https://github.com/kenryu42/cc-safety-net"
+      },
+      "metadata": {
+        "category": "security",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 155665,
+          "stars": 2009
+        }
+      },
+      "versions": [
+        {
+          "version": "2.7.12",
+          "publishTimestamp": 1794445092,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
         }
       ]
     },
@@ -444,14 +475,47 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 156933,
-          "stars": 444
+          "downloads": 154800,
+          "stars": 552
         }
       },
       "versions": [
         {
-          "version": "1.4.2",
-          "publishTimestamp": 1794448710,
+          "version": "1.4.3",
+          "publishTimestamp": 1794472589,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.1 <0.3.0-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-cost-meter",
+      "title": "Han-1413141/dsh-cost-meter",
+      "description": {
+        "en": "Per-session and daily API cost, budget with usage %, official balance, history dashboard, and one-click official price sync with peak/off-peak pricing.",
+        "zh": "会话与当日 API 费用统计、预算图框（已用%）、官方余额、历史看板，支持峰谷计价与官方价格一键同步。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/Han-1413141/dsh-cost-meter/",
+      "repository": {
+        "url": "https://github.com/Han-1413141/dsh-cost-meter"
+      },
+      "metadata": {
+        "category": "usage",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 149548,
+          "stars": 681
+        }
+      },
+      "versions": [
+        {
+          "version": "1.9.64",
+          "publishTimestamp": 1794320098,
           "source": {
             "type": "npm"
           },
@@ -478,82 +542,18 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 151661,
-          "stars": 9959
+          "downloads": 148906,
+          "stars": 10379
         }
       },
       "versions": [
         {
-          "version": "0.4.16",
-          "publishTimestamp": 1794061920,
+          "version": "0.4.18",
+          "publishTimestamp": 1794496851,
           "source": {
             "type": "npm"
           },
           "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "cc-safety-net",
-      "title": "kenryu42/cc-safety-net",
-      "description": {
-        "en": "Pre-execution guard that blocks destructive Git and filesystem commands and access to secrets such as SSH keys and .env files before a tool call runs.",
-        "zh": "执行前守卫，在工具调用运行前拦截破坏性 Git 与文件系统命令，以及对 SSH 密钥、.env 等机密文件的访问。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/kenryu42/cc-safety-net/",
-      "repository": {
-        "url": "https://github.com/kenryu42/cc-safety-net"
-      },
-      "metadata": {
-        "category": "security",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 150502,
-          "stars": 1900
-        }
-      },
-      "versions": [
-        {
-          "version": "2.7.12",
-          "publishTimestamp": 1794445092,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "dsh-cost-meter",
-      "title": "Han-1413141/dsh-cost-meter",
-      "description": {
-        "en": "Per-session and daily API cost, budget with usage %, official balance, history dashboard, and one-click official price sync with peak/off-peak pricing.",
-        "zh": "会话与当日 API 费用统计、预算图框（已用%）、官方余额、历史看板，支持峰谷计价与官方价格一键同步。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/Han-1413141/dsh-cost-meter/",
-      "repository": {
-        "url": "https://github.com/Han-1413141/dsh-cost-meter"
-      },
-      "metadata": {
-        "category": "usage",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 149903,
-          "stars": 675
-        }
-      },
-      "versions": [
-        {
-          "version": "1.9.64",
-          "publishTimestamp": 1794320098,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.0-rc.1 <0.3.0-0"
-          }
         }
       ]
     },
@@ -573,8 +573,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 149325,
-          "stars": 6498
+          "downloads": 147745,
+          "stars": 6657
         }
       },
       "versions": [
@@ -606,14 +606,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 133443,
-          "stars": 62
+          "downloads": 129735,
+          "stars": 70
         }
       },
       "versions": [
         {
-          "version": "0.4.16",
-          "publishTimestamp": 1794061033,
+          "version": "0.4.18",
+          "publishTimestamp": 1794495225,
           "source": {
             "type": "npm"
           },
@@ -637,46 +637,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 129060,
-          "stars": 3118
+          "downloads": 128591,
+          "stars": 3543
         }
       },
       "versions": [
         {
           "version": "5.10.0",
           "publishTimestamp": 1793724813,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "@linxin666/dsh-client-ui-task-board",
-      "title": "zhu1090093659/dsh-web#packages/dsh-task-board",
-      "description": {
-        "en": "Task board for the dsh web GUI: a sidebar multi-column kanban whose cards run in real DSH agent sessions and can also be scheduled with cron expressions,…",
-        "zh": "侧边栏多列任务看板：卡片交给真实 DSH 智能体会话执行，支持 cron 定时（Host 侧到点执行，关浏览器也生效）。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/zhu1090093659/dsh-web--packages-dsh-task-board/",
-      "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web",
-        "directory": "packages/dsh-task-board"
-      },
-      "metadata": {
-        "category": "ui",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 124319,
-          "stars": 10357
-        }
-      },
-      "versions": [
-        {
-          "version": "0.4.16",
-          "publishTimestamp": 1794061943,
           "source": {
             "type": "npm"
           },
@@ -701,8 +669,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 122685,
-          "stars": 60140
+          "downloads": 123280,
+          "stars": 60728
         }
       },
       "versions": [
@@ -732,14 +700,46 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 116981,
-          "stars": 264
+          "downloads": 122321,
+          "stars": 279
         }
       },
       "versions": [
         {
-          "version": "0.8.91",
-          "publishTimestamp": 1794326200,
+          "version": "0.8.94",
+          "publishTimestamp": 1794488653,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "@linxin666/dsh-client-ui-task-board",
+      "title": "zhu1090093659/dsh-web#packages/dsh-task-board",
+      "description": {
+        "en": "Task board for the dsh web GUI: a sidebar multi-column kanban whose cards run in real DSH agent sessions and can also be scheduled with cron expressions,…",
+        "zh": "侧边栏多列任务看板：卡片交给真实 DSH 智能体会话执行，支持 cron 定时（Host 侧到点执行，关浏览器也生效）。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/zhu1090093659/dsh-web--packages-dsh-task-board/",
+      "repository": {
+        "url": "https://github.com/zhu1090093659/dsh-web",
+        "directory": "packages/dsh-task-board"
+      },
+      "metadata": {
+        "category": "ui",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 121929,
+          "stars": 10379
+        }
+      },
+      "versions": [
+        {
+          "version": "0.4.18",
+          "publishTimestamp": 1794497036,
           "source": {
             "type": "npm"
           },
@@ -763,14 +763,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 113260,
-          "stars": 970
+          "downloads": 115184,
+          "stars": 986
         }
       },
       "versions": [
         {
-          "version": "0.5.44",
-          "publishTimestamp": 1794345061,
+          "version": "0.5.45",
+          "publishTimestamp": 1794508085,
           "source": {
             "type": "npm"
           },
@@ -796,14 +796,45 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 112486,
-          "stars": 53
+          "downloads": 114115,
+          "stars": 55
         }
       },
       "versions": [
         {
           "version": "0.3.3",
           "publishTimestamp": 1793946542,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "dsh-free-search",
+      "title": "DDDMUC/dsh-free-search",
+      "description": {
+        "en": "Free, keyless web search for DSH: 7 engines (DuckDuckGo/Bing/SearXNG free + Exa/Perplexity/DeepSeek paid), auto-failover, settings-page UI with API key inputs…",
+        "zh": "DSH 免费搜索插件：7 个引擎（DuckDuckGo/Bing/SearXNG 免费 + Exa/Perplexity/DeepSeek 付费）、自动回退、设置页 UI（API key 输入 + 官网链接）、web_fetch、引擎测试工具。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/DDDMUC/dsh-free-search/",
+      "repository": {
+        "url": "https://github.com/DDDMUC/dsh-free-search"
+      },
+      "metadata": {
+        "category": "browser",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 112153,
+          "stars": 1093
+        }
+      },
+      "versions": [
+        {
+          "version": "0.9.46",
+          "publishTimestamp": 1794500940,
           "source": {
             "type": "npm"
           },
@@ -827,14 +858,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 111247,
-          "stars": 336
+          "downloads": 110393,
+          "stars": 345
         }
       },
       "versions": [
         {
-          "version": "1.3.1",
-          "publishTimestamp": 1794267707,
+          "version": "1.3.3",
+          "publishTimestamp": 1794477858,
           "source": {
             "type": "npm"
           },
@@ -845,29 +876,29 @@
       ]
     },
     {
-      "name": "dsh-free-search",
-      "title": "DDDMUC/dsh-free-search",
+      "name": "dsh-connect-workbuddy",
+      "title": "dingminhua/dsh-connect-workbuddy",
       "description": {
-        "en": "Free, keyless web search for DSH: 7 engines (DuckDuckGo/Bing/SearXNG free + Exa/Perplexity/DeepSeek paid), auto-failover, settings-page UI with API key inputs…",
-        "zh": "DSH 免费搜索插件：7 个引擎（DuckDuckGo/Bing/SearXNG 免费 + Exa/Perplexity/DeepSeek 付费）、自动回退、设置页 UI（API key 输入 + 官网链接）、web_fetch、引擎测试工具。"
+        "en": "Connects locally signed-in WorkBuddy models, CN and international alike, to DSH, reading each model's credit multiplier from the upstream catalog on every…",
+        "zh": "将本机登录的 WorkBuddy 模型（国内版与国际版）接入 DSH，每次刷新按上游目录读取每个模型的积分倍率，支持逐模型图片输入开关、带自动换号的账号池、手动每日签到，以及卡片与输入框里的只读积分胶囊读数。"
       },
-      "homepage": "https://awesome-dsh-plugin.com/p/DDDMUC/dsh-free-search/",
+      "homepage": "https://awesome-dsh-plugin.com/p/dingminhua/dsh-connect-workbuddy/",
       "repository": {
-        "url": "https://github.com/DDDMUC/dsh-free-search"
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
       },
       "metadata": {
-        "category": "browser",
+        "category": "model",
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 110276,
-          "stars": 817
+          "downloads": 109853,
+          "stars": 1517
         }
       },
       "versions": [
         {
-          "version": "0.9.43",
-          "publishTimestamp": 1794402280,
+          "version": "5.23.0",
+          "publishTimestamp": 1794502312,
           "source": {
             "type": "npm"
           },
@@ -892,14 +923,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 108380,
-          "stars": 9959
+          "downloads": 106231,
+          "stars": 10379
         }
       },
       "versions": [
         {
-          "version": "0.4.16",
-          "publishTimestamp": 1794061921,
+          "version": "0.4.18",
+          "publishTimestamp": 1794497028,
           "source": {
             "type": "npm"
           },
@@ -908,29 +939,63 @@
       ]
     },
     {
-      "name": "dsh-connect-workbuddy",
-      "title": "dingminhua/dsh-connect-workbuddy",
+      "name": "dsh-session-superagent",
+      "title": "MYCF711/dsh-session-superagent",
       "description": {
-        "en": "Connects locally signed-in WorkBuddy models, CN and international alike, to DSH, reading each model's credit multiplier from the upstream catalog on every…",
-        "zh": "将本机登录的 WorkBuddy 模型（国内版与国际版）接入 DSH，每次刷新按上游目录读取每个模型的积分倍率，支持逐模型图片输入开关、带自动换号的账号池、手动每日签到，以及卡片与输入框里的只读积分胶囊读数。"
+        "en": "Session-level superagent: watch one GitHub repository and wake this session when an issue or pull request changes; requires a logged-in gh CLI, and the…",
+        "zh": "会话级 superagent：盯一个 GitHub 仓库，issue/PR 有变化就唤醒本会话；需已登录 gh CLI，凭证留在插件内，不进模型。"
       },
-      "homepage": "https://awesome-dsh-plugin.com/p/dingminhua/dsh-connect-workbuddy/",
+      "homepage": "https://awesome-dsh-plugin.com/p/MYCF711/dsh-session-superagent/",
       "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+        "url": "https://github.com/MYCF711/dsh-session-superagent"
       },
       "metadata": {
-        "category": "model",
+        "category": "session",
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 108038,
-          "stars": 1467
+          "downloads": 100156,
+          "stars": 45
         }
       },
       "versions": [
         {
-          "version": "5.21.4",
-          "publishTimestamp": 1794397890,
+          "version": "0.10.12",
+          "publishTimestamp": 1794191628,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.1-rc.5 <0.2.2-0 || >=0.2.2-rc.1 <0.3.0-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "@linxin666/dsh-web-all",
+      "title": "zhu1090093659/dsh-web#packages/dsh-web-all",
+      "description": {
+        "en": "Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.",
+        "zh": "DSH Web UI 插件与皮肤合集：任务看板、git 图、右侧面板、远程移动端 UI、桌宠、实时 token 统计与皮肤中心。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/zhu1090093659/dsh-web--packages-dsh-web-all/",
+      "repository": {
+        "url": "https://github.com/zhu1090093659/dsh-web",
+        "directory": "packages/dsh-web-all"
+      },
+      "metadata": {
+        "category": "ui",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 99525,
+          "stars": 10379
+        }
+      },
+      "versions": [
+        {
+          "version": "0.4.18",
+          "publishTimestamp": 1794496959,
           "source": {
             "type": "npm"
           },
@@ -955,46 +1020,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 102049,
-          "stars": 9959
+          "downloads": 97880,
+          "stars": 10379
         }
       },
       "versions": [
         {
           "version": "0.4.14",
           "publishTimestamp": 1793612651,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "@linxin666/dsh-web-all",
-      "title": "zhu1090093659/dsh-web#packages/dsh-web-all",
-      "description": {
-        "en": "Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.",
-        "zh": "DSH Web UI 插件与皮肤合集：任务看板、git 图、右侧面板、远程移动端 UI、桌宠、实时 token 统计与皮肤中心。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/zhu1090093659/dsh-web--packages-dsh-web-all/",
-      "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web",
-        "directory": "packages/dsh-web-all"
-      },
-      "metadata": {
-        "category": "ui",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 101639,
-          "stars": 10357
-        }
-      },
-      "versions": [
-        {
-          "version": "0.4.16",
-          "publishTimestamp": 1794061934,
           "source": {
             "type": "npm"
           },
@@ -1019,51 +1052,18 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 99744,
-          "stars": 9959
+          "downloads": 95396,
+          "stars": 10379
         }
       },
       "versions": [
         {
-          "version": "0.4.16",
-          "publishTimestamp": 1794061966,
+          "version": "0.4.18",
+          "publishTimestamp": 1794497138,
           "source": {
             "type": "npm"
           },
           "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "dsh-session-superagent",
-      "title": "MYCF711/dsh-session-superagent",
-      "description": {
-        "en": "Session-level superagent: watch one GitHub repository and wake this session when an issue or pull request changes; requires a logged-in gh CLI, and the…",
-        "zh": "会话级 superagent：盯一个 GitHub 仓库，issue/PR 有变化就唤醒本会话；需已登录 gh CLI，凭证留在插件内，不进模型。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/MYCF711/dsh-session-superagent/",
-      "repository": {
-        "url": "https://github.com/MYCF711/dsh-session-superagent"
-      },
-      "metadata": {
-        "category": "session",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 99456,
-          "stars": 44
-        }
-      },
-      "versions": [
-        {
-          "version": "0.10.12",
-          "publishTimestamp": 1794191628,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.1-rc.5 <0.2.2-0 || >=0.2.2-rc.1 <0.3.0-0"
-          }
         }
       ]
     },
@@ -1084,8 +1084,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 95250,
-          "stars": 3093
+          "downloads": 93782,
+          "stars": 3098
         }
       },
       "versions": [
@@ -1115,8 +1115,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 89285,
-          "stars": 10
+          "downloads": 90116,
+          "stars": 16
         }
       },
       "versions": [
@@ -1128,6 +1128,39 @@
           },
           "engines": {
             "dsh": ">=0.1.5-rc.1 <0.1.6-0 || >=0.1.6-alpha.1 <0.1.7-0 || >=0.1.7-alpha.1 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0 || >=0.2.1-0 <0.3.0-0 || >=0.2.2-0 <0.2.3-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-mobile-plugin",
+      "title": "WNLUO/dsh-mobile-plugin",
+      "description": {
+        "en": "Endpoint of a companion mobile app that also runs headless, with no desktop shell or Electron required: it serves a restricted mobile API over a relay tunnel…",
+        "zh": "手机 App 的对端插件，自身可作无头宿主单独运行（不需要桌面外壳或 Electron）：经中转隧道或局域网配对提供受限的移动 API，用于列出、新建与操控 DSH 会话、订阅设备实时事件流，并以可吊销的设备凭据鉴权。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/WNLUO/dsh-mobile-plugin/",
+      "repository": {
+        "url": "https://github.com/WNLUO/dsh-mobile-plugin"
+      },
+      "metadata": {
+        "category": "remote",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 84477,
+          "stars": 42
+        }
+      },
+      "versions": [
+        {
+          "version": "0.5.47",
+          "publishTimestamp": 1794529938,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0"
           }
         }
       ]
@@ -1148,14 +1181,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 81426,
-          "stars": 291
+          "downloads": 79721,
+          "stars": 293
         }
       },
       "versions": [
         {
-          "version": "2.0.22",
-          "publishTimestamp": 1794371090,
+          "version": "2.1.1",
+          "publishTimestamp": 1794472876,
           "source": {
             "type": "npm"
           },
@@ -1181,8 +1214,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 76881,
-          "stars": 488
+          "downloads": 77757,
+          "stars": 565
         }
       },
       "versions": [
@@ -1212,14 +1245,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 76817,
-          "stars": 1075
+          "downloads": 77671,
+          "stars": 1404
         }
       },
       "versions": [
         {
-          "version": "0.11.1",
-          "publishTimestamp": 1794152594,
+          "version": "0.11.2",
+          "publishTimestamp": 1794496628,
           "source": {
             "type": "npm"
           },
@@ -1228,34 +1261,34 @@
       ]
     },
     {
-      "name": "dsh-mobile-plugin",
-      "title": "WNLUO/dsh-mobile-plugin",
+      "name": "dsh-bili-scroll",
+      "title": "c1overzz/dsh-bili-scroll",
       "description": {
-        "en": "Endpoint of a companion mobile app that also runs headless, with no desktop shell or Electron required: it serves a restricted mobile API over a relay tunnel…",
-        "zh": "手机 App 的对端插件，自身可作无头宿主单独运行（不需要桌面外壳或 Electron）：经中转隧道或局域网配对提供受限的移动 API，用于列出、新建与操控 DSH 会话、订阅设备实时事件流，并以可吊销的设备凭据鉴权。"
+        "en": "Let your DSH agent browse Bilibili on its own, read subtitles, write a daily digest, and @ you when it finds something worth your attention.",
+        "zh": "让你的 DSH 自己刷 B站 —— 读字幕原文挑内容、写日报，遇到值得看的会发评论 @ 你。"
       },
-      "homepage": "https://awesome-dsh-plugin.com/p/WNLUO/dsh-mobile-plugin/",
+      "homepage": "https://awesome-dsh-plugin.com/p/c1overzz/dsh-bili-scroll/",
       "repository": {
-        "url": "https://github.com/WNLUO/dsh-mobile-plugin"
+        "url": "https://github.com/c1overzz/dsh-bili-scroll"
       },
       "metadata": {
-        "category": "remote",
+        "category": "notify",
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 75541,
-          "stars": 11
+          "downloads": 73647,
+          "stars": 1381
         }
       },
       "versions": [
         {
-          "version": "0.5.41",
-          "publishTimestamp": 1794433882,
+          "version": "2.5.2",
+          "publishTimestamp": 1794500423,
           "source": {
             "type": "npm"
           },
           "engines": {
-            "dsh": ">=0.2.0"
+            "dsh": ">=0.1.7-rc.1"
           }
         }
       ]
@@ -1276,8 +1309,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 72994,
-          "stars": 911
+          "downloads": 73189,
+          "stars": 978
         }
       },
       "versions": [
@@ -1307,51 +1340,18 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 72782,
-          "stars": 7530
+          "downloads": 73064,
+          "stars": 7602
         }
       },
       "versions": [
         {
-          "version": "0.19.0",
-          "publishTimestamp": 1793936210,
+          "version": "0.20.0",
+          "publishTimestamp": 1794501716,
           "source": {
             "type": "npm"
           },
           "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "dsh-bili-scroll",
-      "title": "c1overzz/dsh-bili-scroll",
-      "description": {
-        "en": "Let your DSH agent browse Bilibili on its own, read subtitles, write a daily digest, and @ you when it finds something worth your attention.",
-        "zh": "让你的 DSH 自己刷 B站 —— 读字幕原文挑内容、写日报，遇到值得看的会发评论 @ 你。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/c1overzz/dsh-bili-scroll/",
-      "repository": {
-        "url": "https://github.com/c1overzz/dsh-bili-scroll"
-      },
-      "metadata": {
-        "category": "notify",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 72268,
-          "stars": 1150
-        }
-      },
-      "versions": [
-        {
-          "version": "2.5.1",
-          "publishTimestamp": 1794171261,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.7-rc.1"
-          }
         }
       ]
     },
@@ -1371,8 +1371,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 70183,
-          "stars": 45
+          "downloads": 71089,
+          "stars": 54
         }
       },
       "versions": [
@@ -1384,39 +1384,6 @@
           },
           "engines": {
             "dsh": ">=0.2.0-rc.1"
-          }
-        }
-      ]
-    },
-    {
-      "name": "@michengai/dsh-agency-agents",
-      "title": "MichengAI/dsh-agency-agents",
-      "description": {
-        "en": "Adds a summonable domain-expert roster that runs as subagents while the parent session keeps the task and final answer.",
-        "zh": "增加可召唤的领域专家名单，专家以子代理运行，主会话保留任务和最终答复。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/MichengAI/dsh-agency-agents/",
-      "repository": {
-        "url": "https://github.com/MichengAI/dsh-agency-agents"
-      },
-      "metadata": {
-        "category": "skill",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 69206,
-          "stars": 207
-        }
-      },
-      "versions": [
-        {
-          "version": "1.2.27",
-          "publishTimestamp": 1794216646,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.0-rc.1 <0.3.0-0"
           }
         }
       ]
@@ -1437,19 +1404,52 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 68439,
-          "stars": 1211
+          "downloads": 69985,
+          "stars": 1264
         }
       },
       "versions": [
         {
-          "version": "3.2.0",
-          "publishTimestamp": 1794232851,
+          "version": "3.2.1",
+          "publishTimestamp": 1794474125,
           "source": {
             "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.5 <0.3.0-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "@michengai/dsh-agency-agents",
+      "title": "MichengAI/dsh-agency-agents",
+      "description": {
+        "en": "Adds a summonable domain-expert roster that runs as subagents while the parent session keeps the task and final answer.",
+        "zh": "增加可召唤的领域专家名单，专家以子代理运行，主会话保留任务和最终答复。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/MichengAI/dsh-agency-agents/",
+      "repository": {
+        "url": "https://github.com/MichengAI/dsh-agency-agents"
+      },
+      "metadata": {
+        "category": "skill",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 67003,
+          "stars": 243
+        }
+      },
+      "versions": [
+        {
+          "version": "1.2.29",
+          "publishTimestamp": 1794491782,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.1 <0.3.0-0"
           }
         }
       ]
@@ -1470,8 +1470,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 67692,
-          "stars": 974
+          "downloads": 66712,
+          "stars": 979
         }
       },
       "versions": [
@@ -1503,14 +1503,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 67015,
-          "stars": 118
+          "downloads": 65518,
+          "stars": 136
         }
       },
       "versions": [
         {
-          "version": "1.0.35",
-          "publishTimestamp": 1794297547,
+          "version": "1.0.37",
+          "publishTimestamp": 1794471343,
           "source": {
             "type": "npm"
           },
@@ -1536,8 +1536,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 60908,
-          "stars": 657
+          "downloads": 59442,
+          "stars": 713
         }
       },
       "versions": [
@@ -1567,8 +1567,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 59453,
-          "stars": 2647
+          "downloads": 58495,
+          "stars": 2906
         }
       },
       "versions": [
@@ -1600,19 +1600,19 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 53760,
-          "stars": 38
+          "downloads": 54590,
+          "stars": 40
         }
       },
       "versions": [
         {
-          "version": "0.12.2",
-          "publishTimestamp": 1794150771,
+          "version": "0.12.3",
+          "publishTimestamp": 1794485422,
           "source": {
             "type": "npm"
           },
           "engines": {
-            "dsh": ">=0.2.0-rc.2 <0.3.0 || 0.2.1-rc.1 || 0.2.1-rc.2 || 0.2.1-rc.3 || 0.2.1-rc.4 || 0.2.1-rc.5 || 0.2.2-rc.1"
+            "dsh": ">=0.2.0-rc.2 <0.3.0 || 0.2.1-rc.1 || 0.2.1-rc.2 || 0.2.1-rc.3 || 0.2.1-rc.4 || 0.2.1-rc.5 || 0.2.2-rc.1 || 0.2.2-rc.2"
           }
         }
       ]
@@ -1633,46 +1633,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 51014,
-          "stars": 1319
+          "downloads": 54506,
+          "stars": 2736
         }
       },
       "versions": [
         {
           "version": "0.6.4",
           "publishTimestamp": 1794144859,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "@wxg-prc-cpg/browser-skill-dsh-plugin",
-      "title": "Tencent/BrowserSkill#dsh-plugin-browserskill",
-      "description": {
-        "en": "BrowserSkill bridge for controlling visible Chrome and Edge Agent Windows from DeepSeek Harness, with native browser tools, accessibility and VOM observations,…",
-        "zh": "BrowserSkill 的 DeepSeek Harness 浏览器自动化桥接插件，通过原生浏览器工具控制可见的 Chrome 和 Edge Agent Window，支持可访问性与 VOM 页面观察、截图、隔离的多会话控制和 Web UI 实时观察浮层。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/Tencent/BrowserSkill--packages-dsh-plugin-browserskill/",
-      "repository": {
-        "url": "https://github.com/Tencent/BrowserSkill",
-        "directory": "packages/dsh-plugin-browserskill"
-      },
-      "metadata": {
-        "category": "browser",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 50146,
-          "stars": 9929
-        }
-      },
-      "versions": [
-        {
-          "version": "0.4.2",
-          "publishTimestamp": 1793881543,
           "source": {
             "type": "npm"
           },
@@ -1697,8 +1665,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 49104,
-          "stars": 92724
+          "downloads": 49557,
+          "stars": 95975
         }
       },
       "versions": [
@@ -1713,29 +1681,30 @@
       ]
     },
     {
-      "name": "dsh-dream-skin",
-      "title": "RevolutionLA/dsh-dream-skin",
+      "name": "@wxg-prc-cpg/browser-skill-dsh-plugin",
+      "title": "Tencent/BrowserSkill#dsh-plugin-browserskill",
       "description": {
-        "en": "One-command skin plugin: 8 original themes, translucent wallpaper with opacity/blur, per-user accent, and shareable theme-pack import/export, favorites and…",
-        "zh": "一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊）、强调色、主题包导入/导出+分享链接、收藏与随机，纯原生 token 系统接入。"
+        "en": "BrowserSkill bridge for controlling visible Chrome and Edge Agent Windows from DeepSeek Harness, with native browser tools, accessibility and VOM observations,…",
+        "zh": "BrowserSkill 的 DeepSeek Harness 浏览器自动化桥接插件，通过原生浏览器工具控制可见的 Chrome 和 Edge Agent Window，支持可访问性与 VOM 页面观察、截图、隔离的多会话控制和 Web UI 实时观察浮层。"
       },
-      "homepage": "https://awesome-dsh-plugin.com/p/RevolutionLA/dsh-dream-skin/",
+      "homepage": "https://awesome-dsh-plugin.com/p/Tencent/BrowserSkill--packages-dsh-plugin-browserskill/",
       "repository": {
-        "url": "https://github.com/RevolutionLA/dsh-dream-skin"
+        "url": "https://github.com/Tencent/BrowserSkill",
+        "directory": "packages/dsh-plugin-browserskill"
       },
       "metadata": {
-        "category": "theme",
+        "category": "browser",
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 48361,
-          "stars": 301
+          "downloads": 49391,
+          "stars": 10355
         }
       },
       "versions": [
         {
-          "version": "11.3.0",
-          "publishTimestamp": 1793639942,
+          "version": "0.5.0",
+          "publishTimestamp": 1794499855,
           "source": {
             "type": "npm"
           },
@@ -1759,14 +1728,76 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 48254,
-          "stars": 570
+          "downloads": 48949,
+          "stars": 585
         }
       },
       "versions": [
         {
           "version": "0.20.3",
           "publishTimestamp": 1794333780,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "dsh-dream-skin",
+      "title": "RevolutionLA/dsh-dream-skin",
+      "description": {
+        "en": "One-command skin plugin: 8 original themes, translucent wallpaper with opacity/blur, per-user accent, and shareable theme-pack import/export, favorites and…",
+        "zh": "一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊）、强调色、主题包导入/导出+分享链接、收藏与随机，纯原生 token 系统接入。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/RevolutionLA/dsh-dream-skin/",
+      "repository": {
+        "url": "https://github.com/RevolutionLA/dsh-dream-skin"
+      },
+      "metadata": {
+        "category": "theme",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 47584,
+          "stars": 301
+        }
+      },
+      "versions": [
+        {
+          "version": "11.3.0",
+          "publishTimestamp": 1793639942,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "dsh-m",
+      "title": "iasiv5/dsh-m",
+      "description": {
+        "en": "In-app plugin marketplace for DSH: plugin discovery, install, upgrade, toggle and uninstall in one panel for Web and Desktop host profiles, pairing a community…",
+        "zh": "DSH 的应用内插件市场：插件发现、安装、升级、开关与卸载一站完成，跟随 Web / Desktop 宿主 profile；4,000+ 条社区目录搭配可自定义精选清单，附 8 个 agent 工具与独立 dshm CLI，无需市场服务器或账号。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/iasiv5/dsh-m/",
+      "repository": {
+        "url": "https://github.com/iasiv5/dsh-m"
+      },
+      "metadata": {
+        "category": "market",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 44720,
+          "stars": 33
+        }
+      },
+      "versions": [
+        {
+          "version": "0.12.16",
+          "publishTimestamp": 1794410852,
           "source": {
             "type": "npm"
           },
@@ -1791,45 +1822,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 45401,
-          "stars": 41884
+          "downloads": 44516,
+          "stars": 42125
         }
       },
       "versions": [
         {
           "version": "0.5.34",
           "publishTimestamp": 1794236985,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "dsh-m",
-      "title": "iasiv5/dsh-m",
-      "description": {
-        "en": "In-app plugin marketplace for DSH: plugin discovery, install, upgrade, toggle and uninstall in one panel for Web and Desktop host profiles, pairing a community…",
-        "zh": "DSH 的应用内插件市场：插件发现、安装、升级、开关与卸载一站完成，跟随 Web / Desktop 宿主 profile；4,000+ 条社区目录搭配可自定义精选清单，附 8 个 agent 工具与独立 dshm CLI，无需市场服务器或账号。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/iasiv5/dsh-m/",
-      "repository": {
-        "url": "https://github.com/iasiv5/dsh-m"
-      },
-      "metadata": {
-        "category": "market",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 43864,
-          "stars": 31
-        }
-      },
-      "versions": [
-        {
-          "version": "0.12.16",
-          "publishTimestamp": 1794410852,
           "source": {
             "type": "npm"
           },
@@ -1853,8 +1853,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 42413,
-          "stars": 120
+          "downloads": 42944,
+          "stars": 122
         }
       },
       "versions": [
@@ -1884,14 +1884,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 42157,
-          "stars": 36
+          "downloads": 41298,
+          "stars": 40
         }
       },
       "versions": [
         {
-          "version": "1.0.22",
-          "publishTimestamp": 1794213259,
+          "version": "1.0.23",
+          "publishTimestamp": 1794464579,
           "source": {
             "type": "npm"
           },
@@ -1917,83 +1917,19 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 39838,
-          "stars": 52
+          "downloads": 40578,
+          "stars": 86
         }
       },
       "versions": [
         {
-          "version": "1.4.6",
-          "publishTimestamp": 1793336532,
+          "version": "1.4.7",
+          "publishTimestamp": 1794494431,
           "source": {
             "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.2 <0.3.0-0"
-          }
-        }
-      ]
-    },
-    {
-      "name": "@zaofan/dsh-qqbot",
-      "title": "zaofan-make/dsh-qqbot",
-      "description": {
-        "en": "QQ official bot channel (enhanced fork of tencent-connect/dsh-qqbot): full agent chat in groups and DMs, rich media, an auto-tagged sticker library with AI…",
-        "zh": "QQ 官方机器人通道（tencent-connect/dsh-qqbot 的增强 fork）：群/私聊ai陪聊、富媒体收发、表情包打标入库+检索发图、入群审批/禁言/群发、定时唤醒、QQ 远程审批与提问卡、互动按钮卡、多账号多实例、扩展接口、群友记忆注入、按消息价值唤醒省token、上下文自动压缩、悬浮球设置面板。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/zaofan-make/dsh-qqbot/",
-      "repository": {
-        "url": "https://github.com/zaofan-make/dsh-qqbot"
-      },
-      "metadata": {
-        "category": "notify",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 39220,
-          "stars": 213
-        }
-      },
-      "versions": [
-        {
-          "version": "1.12.20",
-          "publishTimestamp": 1794443650,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "dsh-rewind-plugin",
-      "title": "SiriLee/dsh-rewind",
-      "description": {
-        "en": "Conversation rewind: one click back to any earlier user message, in the same window — no new branch, no leftover copy; the target message is refilled into the…",
-        "zh": "对话回退：一键回到任意更早的用户消息，同窗口内完成，不新建分支、不残留副本；目标消息自动填回输入框，可一并还原工作区文件——即完整的 Claude Code /rewind 语义。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/SiriLee/dsh-rewind/",
-      "repository": {
-        "url": "https://github.com/SiriLee/dsh-rewind"
-      },
-      "metadata": {
-        "category": "session",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 38772,
-          "stars": 258
-        }
-      },
-      "versions": [
-        {
-          "version": "0.22.0",
-          "publishTimestamp": 1794404028,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.2-rc.1 <0.3.0-0"
           }
         }
       ]
@@ -2014,8 +1950,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 38269,
-          "stars": 36
+          "downloads": 40221,
+          "stars": 35
         }
       },
       "versions": [
@@ -2028,6 +1964,70 @@
           "engines": {
             "dsh": "^0.2.1-rc.5 || ^0.2.2-rc.2"
           }
+        }
+      ]
+    },
+    {
+      "name": "dsh-rewind-plugin",
+      "title": "SiriLee/dsh-rewind",
+      "description": {
+        "en": "Conversation rewind: one click back to any earlier user message, in the same window — no new branch, no leftover copy; the target message is refilled into the…",
+        "zh": "对话回退：一键回到任意更早的用户消息，同窗口内完成，不新建分支、不残留副本；目标消息自动填回输入框，可一并还原工作区文件——即完整的 Claude Code /rewind 语义。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/SiriLee/dsh-rewind/",
+      "repository": {
+        "url": "https://github.com/SiriLee/dsh-rewind"
+      },
+      "metadata": {
+        "category": "session",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 39628,
+          "stars": 260
+        }
+      },
+      "versions": [
+        {
+          "version": "0.22.1",
+          "publishTimestamp": 1794462155,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1 <0.3.0-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "@zaofan/dsh-qqbot",
+      "title": "zaofan-make/dsh-qqbot",
+      "description": {
+        "en": "QQ official bot channel (enhanced fork of tencent-connect/dsh-qqbot): full agent chat in groups and DMs, rich media, an auto-tagged sticker library with AI…",
+        "zh": "QQ 官方机器人通道（tencent-connect/dsh-qqbot 的增强 fork）：群/私聊ai陪聊、富媒体收发、表情包打标入库+检索发图、入群审批/禁言/群发、定时唤醒、QQ 远程审批与提问卡、互动按钮卡、多账号多实例、扩展接口、群友记忆注入、按消息价值唤醒省token、上下文自动压缩、悬浮球设置面板。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/zaofan-make/dsh-qqbot/",
+      "repository": {
+        "url": "https://github.com/zaofan-make/dsh-qqbot"
+      },
+      "metadata": {
+        "category": "notify",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 39275,
+          "stars": 249
+        }
+      },
+      "versions": [
+        {
+          "version": "1.12.23",
+          "publishTimestamp": 1794535452,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
         }
       ]
     },
@@ -2047,14 +2047,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 36855,
-          "stars": 116
+          "downloads": 37828,
+          "stars": 125
         }
       },
       "versions": [
         {
-          "version": "0.2.101",
-          "publishTimestamp": 1794386517,
+          "version": "0.2.102",
+          "publishTimestamp": 1794483617,
           "source": {
             "type": "npm"
           },
