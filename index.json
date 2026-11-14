@@ -5,8 +5,8 @@
     "zh": "DSH 社区热门插件"
   },
   "description": {
-    "en": "The 60 most-downloaded installable community plugins, ranked by npm downloads (2026-10-14 to 2026-11-12), from the awesome-dsh-plugin catalog. Regenerate with build-top-index.mjs.",
-    "zh": "按 npm 下载量（2026-10-14 至 2026-11-12）排序的 Top 60 可安装社区插件，数据来自 awesome-dsh-plugin 社区目录。运行 build-top-index.mjs 可重新生成。"
+    "en": "The 60 most-downloaded installable community plugins, ranked by npm downloads (2026-10-15 to 2026-11-13), from the awesome-dsh-plugin catalog. Regenerate with build-top-index.mjs.",
+    "zh": "按 npm 下载量（2026-10-15 至 2026-11-13）排序的 Top 60 可安装社区插件，数据来自 awesome-dsh-plugin 社区目录。运行 build-top-index.mjs 可重新生成。"
   },
   "metadata": {
     "categories": {
@@ -160,8 +160,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 3175699,
-          "stars": 7093
+          "downloads": 3257276,
+          "stars": 7263
         }
       },
       "versions": [
@@ -191,8 +191,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 1174911,
-          "stars": 12196
+          "downloads": 1217335,
+          "stars": 12323
         }
       },
       "versions": [
@@ -222,8 +222,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 749507,
-          "stars": 896
+          "downloads": 752551,
+          "stars": 1067
         }
       },
       "versions": [
@@ -254,8 +254,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 549819,
-          "stars": 6184
+          "downloads": 563131,
+          "stars": 6236
         }
       },
       "versions": [
@@ -285,14 +285,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 466375,
-          "stars": 5023
+          "downloads": 483911,
+          "stars": 5064
         }
       },
       "versions": [
         {
-          "version": "0.84.0",
-          "publishTimestamp": 1794479323,
+          "version": "0.84.1",
+          "publishTimestamp": 1794540314,
           "source": {
             "type": "npm"
           },
@@ -318,8 +318,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 416271,
-          "stars": 7173
+          "downloads": 422950,
+          "stars": 7201
         }
       },
       "versions": [
@@ -349,8 +349,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 317119,
-          "stars": 5118
+          "downloads": 332659,
+          "stars": 5142
         }
       },
       "versions": [
@@ -380,8 +380,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 293552,
-          "stars": 4945
+          "downloads": 302688,
+          "stars": 4961
         }
       },
       "versions": [
@@ -411,8 +411,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 211298,
-          "stars": 5766
+          "downloads": 221049,
+          "stars": 5798
         }
       },
       "versions": [
@@ -444,8 +444,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 155665,
-          "stars": 2009
+          "downloads": 163249,
+          "stars": 2025
         }
       },
       "versions": [
@@ -475,14 +475,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 154800,
-          "stars": 552
+          "downloads": 160075,
+          "stars": 561
         }
       },
       "versions": [
         {
-          "version": "1.4.3",
-          "publishTimestamp": 1794472589,
+          "version": "1.4.6",
+          "publishTimestamp": 1794585277,
           "source": {
             "type": "npm"
           },
@@ -508,8 +508,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 149548,
-          "stars": 681
+          "downloads": 154318,
+          "stars": 689
         }
       },
       "versions": [
@@ -542,8 +542,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 148906,
-          "stars": 10379
+          "downloads": 153083,
+          "stars": 10406
         }
       },
       "versions": [
@@ -573,8 +573,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 147745,
-          "stars": 6657
+          "downloads": 151307,
+          "stars": 6797
         }
       },
       "versions": [
@@ -587,6 +587,37 @@
           "engines": {
             "dsh": "^0.2.0-rc.1"
           }
+        }
+      ]
+    },
+    {
+      "name": "dsh-remote",
+      "title": "flymysql/dsh-remote",
+      "description": {
+        "en": "Multi-machine remote workspace: manage many SSH hosts, pick a local or remote workspace in the native Add-workspace flow (system folder chooser / local path /…",
+        "zh": "多机远程工作区：管理多台 SSH 主机，在原生「添加工作区」流程里选本机系统文件夹或远程目录，把远程工作区镜像成真实本地文件夹并用 rw_* 工具操作。选择器是居中弹窗，默认落在本机页签，远程路径自动预填 `/` 并逐级自动补全目录。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/flymysql/dsh-remote/",
+      "repository": {
+        "url": "https://github.com/flymysql/dsh-remote"
+      },
+      "metadata": {
+        "category": "tools",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 133305,
+          "stars": 283
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.1",
+          "publishTimestamp": 1794589655,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
         }
       ]
     },
@@ -606,7 +637,7 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 129735,
+          "downloads": 132886,
           "stars": 70
         }
       },
@@ -637,8 +668,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 128591,
-          "stars": 3543
+          "downloads": 132203,
+          "stars": 3574
         }
       },
       "versions": [
@@ -669,45 +700,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 123280,
-          "stars": 60728
+          "downloads": 128280,
+          "stars": 60916
         }
       },
       "versions": [
         {
           "version": "0.8.7",
           "publishTimestamp": 1794313079,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
-        }
-      ]
-    },
-    {
-      "name": "dsh-remote",
-      "title": "flymysql/dsh-remote",
-      "description": {
-        "en": "Multi-machine remote workspace: manage many SSH hosts, pick a local or remote workspace in the native Add-workspace flow (system folder chooser / local path /…",
-        "zh": "多机远程工作区：管理多台 SSH 主机，在原生「添加工作区」流程里选本机系统文件夹或远程目录，把远程工作区镜像成真实本地文件夹并用 rw_* 工具操作。选择器是居中弹窗，默认落在本机页签，远程路径自动预填 `/` 并逐级自动补全目录。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/flymysql/dsh-remote/",
-      "repository": {
-        "url": "https://github.com/flymysql/dsh-remote"
-      },
-      "metadata": {
-        "category": "tools",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 122321,
-          "stars": 279
-        }
-      },
-      "versions": [
-        {
-          "version": "0.8.94",
-          "publishTimestamp": 1794488653,
           "source": {
             "type": "npm"
           },
@@ -732,8 +732,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 121929,
-          "stars": 10379
+          "downloads": 125421,
+          "stars": 10406
         }
       },
       "versions": [
@@ -763,8 +763,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 115184,
-          "stars": 986
+          "downloads": 119486,
+          "stars": 996
         }
       },
       "versions": [
@@ -777,37 +777,6 @@
           "engines": {
             "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.1 <0.3.0-0"
           }
-        }
-      ]
-    },
-    {
-      "name": "dsh-genui",
-      "title": "lhuans/dsh-genui",
-      "description": {
-        "en": "Renders OpenTiny GenUI charts, forms, calculators and mini apps inline in DSH replies via schemaJson fences, with user actions flowing back into the…",
-        "zh": "通过 schemaJson 代码块在 DSH 回复内渲染 OpenTiny GenUI 图表、表单、计算器等迷你应用，用户操作自动回传对话。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/lhuans/dsh-genui/",
-      "repository": {
-        "url": "https://github.com/lhuans/dsh-genui"
-      },
-      "metadata": {
-        "category": "ui",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 114115,
-          "stars": 55
-        }
-      },
-      "versions": [
-        {
-          "version": "0.3.3",
-          "publishTimestamp": 1793946542,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
         }
       ]
     },
@@ -827,14 +796,76 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 112153,
-          "stars": 1093
+          "downloads": 117673,
+          "stars": 1128
         }
       },
       "versions": [
         {
-          "version": "0.9.46",
-          "publishTimestamp": 1794500940,
+          "version": "0.9.48",
+          "publishTimestamp": 1794577193,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "dsh-genui",
+      "title": "lhuans/dsh-genui",
+      "description": {
+        "en": "Renders OpenTiny GenUI charts, forms, calculators and mini apps inline in DSH replies via schemaJson fences, with user actions flowing back into the…",
+        "zh": "通过 schemaJson 代码块在 DSH 回复内渲染 OpenTiny GenUI 图表、表单、计算器等迷你应用，用户操作自动回传对话。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/lhuans/dsh-genui/",
+      "repository": {
+        "url": "https://github.com/lhuans/dsh-genui"
+      },
+      "metadata": {
+        "category": "ui",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 115954,
+          "stars": 60
+        }
+      },
+      "versions": [
+        {
+          "version": "0.3.3",
+          "publishTimestamp": 1793946542,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "dsh-connect-workbuddy",
+      "title": "dingminhua/dsh-connect-workbuddy",
+      "description": {
+        "en": "Connects locally signed-in WorkBuddy models, CN and international alike, to DSH, reading each model's credit multiplier from the upstream catalog on every…",
+        "zh": "将本机登录的 WorkBuddy 模型（国内版与国际版）接入 DSH，每次刷新按上游目录读取每个模型的积分倍率，支持逐模型图片输入开关、带自动换号的账号池、手动每日签到，以及卡片与输入框里的只读积分胶囊读数。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/dingminhua/dsh-connect-workbuddy/",
+      "repository": {
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+      },
+      "metadata": {
+        "category": "model",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 114878,
+          "stars": 1557
+        }
+      },
+      "versions": [
+        {
+          "version": "5.23.1",
+          "publishTimestamp": 1794572911,
           "source": {
             "type": "npm"
           },
@@ -858,51 +889,20 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 110393,
-          "stars": 345
+          "downloads": 114280,
+          "stars": 352
         }
       },
       "versions": [
         {
-          "version": "1.3.3",
-          "publishTimestamp": 1794477858,
+          "version": "1.3.5",
+          "publishTimestamp": 1794542537,
           "source": {
             "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.0-rc.1 <0.3.0-0"
           }
-        }
-      ]
-    },
-    {
-      "name": "dsh-connect-workbuddy",
-      "title": "dingminhua/dsh-connect-workbuddy",
-      "description": {
-        "en": "Connects locally signed-in WorkBuddy models, CN and international alike, to DSH, reading each model's credit multiplier from the upstream catalog on every…",
-        "zh": "将本机登录的 WorkBuddy 模型（国内版与国际版）接入 DSH，每次刷新按上游目录读取每个模型的积分倍率，支持逐模型图片输入开关、带自动换号的账号池、手动每日签到，以及卡片与输入框里的只读积分胶囊读数。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/dingminhua/dsh-connect-workbuddy/",
-      "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
-      },
-      "metadata": {
-        "category": "model",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 109853,
-          "stars": 1517
-        }
-      },
-      "versions": [
-        {
-          "version": "5.23.0",
-          "publishTimestamp": 1794502312,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
         }
       ]
     },
@@ -923,14 +923,46 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 106231,
-          "stars": 10379
+          "downloads": 109024,
+          "stars": 10406
         }
       },
       "versions": [
         {
           "version": "0.4.18",
           "publishTimestamp": 1794497028,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "@linxin666/dsh-web-all",
+      "title": "zhu1090093659/dsh-web#packages/dsh-web-all",
+      "description": {
+        "en": "Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.",
+        "zh": "DSH Web UI 插件与皮肤合集：任务看板、git 图、右侧面板、远程移动端 UI、桌宠、实时 token 统计与皮肤中心。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/zhu1090093659/dsh-web--packages-dsh-web-all/",
+      "repository": {
+        "url": "https://github.com/zhu1090093659/dsh-web",
+        "directory": "packages/dsh-web-all"
+      },
+      "metadata": {
+        "category": "ui",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 102009,
+          "stars": 10406
+        }
+      },
+      "versions": [
+        {
+          "version": "0.4.18",
+          "publishTimestamp": 1794496959,
           "source": {
             "type": "npm"
           },
@@ -954,8 +986,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 100156,
-          "stars": 45
+          "downloads": 101166,
+          "stars": 46
         }
       },
       "versions": [
@@ -968,38 +1000,6 @@
           "engines": {
             "dsh": ">=0.2.1-rc.5 <0.2.2-0 || >=0.2.2-rc.1 <0.3.0-0"
           }
-        }
-      ]
-    },
-    {
-      "name": "@linxin666/dsh-web-all",
-      "title": "zhu1090093659/dsh-web#packages/dsh-web-all",
-      "description": {
-        "en": "Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.",
-        "zh": "DSH Web UI 插件与皮肤合集：任务看板、git 图、右侧面板、远程移动端 UI、桌宠、实时 token 统计与皮肤中心。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/zhu1090093659/dsh-web--packages-dsh-web-all/",
-      "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web",
-        "directory": "packages/dsh-web-all"
-      },
-      "metadata": {
-        "category": "ui",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 99525,
-          "stars": 10379
-        }
-      },
-      "versions": [
-        {
-          "version": "0.4.18",
-          "publishTimestamp": 1794496959,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
         }
       ]
     },
@@ -1020,8 +1020,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 97880,
-          "stars": 10379
+          "downloads": 98719,
+          "stars": 10406
         }
       },
       "versions": [
@@ -1052,8 +1052,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 95396,
-          "stars": 10379
+          "downloads": 96983,
+          "stars": 10406
         }
       },
       "versions": [
@@ -1084,14 +1084,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 93782,
-          "stars": 3098
+          "downloads": 95330,
+          "stars": 3103
         }
       },
       "versions": [
         {
-          "version": "0.1.10",
-          "publishTimestamp": 1793976444,
+          "version": "0.1.11",
+          "publishTimestamp": 1794582987,
           "source": {
             "type": "npm"
           },
@@ -1115,7 +1115,7 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 90116,
+          "downloads": 91325,
           "stars": 16
         }
       },
@@ -1148,14 +1148,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 84477,
-          "stars": 42
+          "downloads": 90569,
+          "stars": 47
         }
       },
       "versions": [
         {
-          "version": "0.5.47",
-          "publishTimestamp": 1794529938,
+          "version": "0.5.50",
+          "publishTimestamp": 1794610464,
           "source": {
             "type": "npm"
           },
@@ -1181,51 +1181,20 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 79721,
-          "stars": 293
+          "downloads": 83941,
+          "stars": 296
         }
       },
       "versions": [
         {
-          "version": "2.1.1",
-          "publishTimestamp": 1794472876,
+          "version": "2.2.1",
+          "publishTimestamp": 1794571153,
           "source": {
             "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.0-rc.1 <0.3.0-0"
           }
-        }
-      ]
-    },
-    {
-      "name": "dsh-meme",
-      "title": "yyh-001/dsh-meme",
-      "description": {
-        "en": "Chat meme stickers: text-only send, mood auto-send, QQ/WeChat-style picker, auto-learn, custom packs.",
-        "zh": "聊天表情包：纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/yyh-001/dsh-meme/",
-      "repository": {
-        "url": "https://github.com/yyh-001/dsh-meme"
-      },
-      "metadata": {
-        "category": "fun",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 77757,
-          "stars": 565
-        }
-      },
-      "versions": [
-        {
-          "version": "0.1.81",
-          "publishTimestamp": 1794449715,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {}
         }
       ]
     },
@@ -1245,8 +1214,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 77671,
-          "stars": 1404
+          "downloads": 80903,
+          "stars": 1479
         }
       },
       "versions": [
@@ -1261,35 +1230,33 @@
       ]
     },
     {
-      "name": "dsh-bili-scroll",
-      "title": "c1overzz/dsh-bili-scroll",
+      "name": "dsh-meme",
+      "title": "yyh-001/dsh-meme",
       "description": {
-        "en": "Let your DSH agent browse Bilibili on its own, read subtitles, write a daily digest, and @ you when it finds something worth your attention.",
-        "zh": "让你的 DSH 自己刷 B站 —— 读字幕原文挑内容、写日报，遇到值得看的会发评论 @ 你。"
+        "en": "Chat meme stickers: text-only send, mood auto-send, QQ/WeChat-style picker, auto-learn, custom packs.",
+        "zh": "聊天表情包：纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包。"
       },
-      "homepage": "https://awesome-dsh-plugin.com/p/c1overzz/dsh-bili-scroll/",
+      "homepage": "https://awesome-dsh-plugin.com/p/yyh-001/dsh-meme/",
       "repository": {
-        "url": "https://github.com/c1overzz/dsh-bili-scroll"
+        "url": "https://github.com/yyh-001/dsh-meme"
       },
       "metadata": {
-        "category": "notify",
+        "category": "fun",
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 73647,
-          "stars": 1381
+          "downloads": 80094,
+          "stars": 566
         }
       },
       "versions": [
         {
-          "version": "2.5.2",
-          "publishTimestamp": 1794500423,
+          "version": "0.1.81",
+          "publishTimestamp": 1794449715,
           "source": {
             "type": "npm"
           },
-          "engines": {
-            "dsh": ">=0.1.7-rc.1"
-          }
+          "engines": {}
         }
       ]
     },
@@ -1309,8 +1276,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 73189,
-          "stars": 978
+          "downloads": 75895,
+          "stars": 981
         }
       },
       "versions": [
@@ -1340,8 +1307,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 73064,
-          "stars": 7602
+          "downloads": 75790,
+          "stars": 7675
         }
       },
       "versions": [
@@ -1356,34 +1323,34 @@
       ]
     },
     {
-      "name": "dsh-unlag",
-      "title": "regrevia/dsh-unlag",
+      "name": "dsh-bili-scroll",
+      "title": "c1overzz/dsh-bili-scroll",
       "description": {
-        "en": "The desktop app has its own refresh button. Edited a plugin but a run is still going? Refresh. Window sluggish after hours of use? Refresh. One button fixes…",
-        "zh": "DSH 桌面端自己的刷新按钮。开发插件要重启，可手里还有任务在跑？刷新一下！开久了页面越来越卡？刷新一下！一个按钮解决这些烦恼，正在进行的会话、排队消息和草稿都不受影响。"
+        "en": "Let your DSH agent browse Bilibili on its own, read subtitles, write a daily digest, and @ you when it finds something worth your attention.",
+        "zh": "让你的 DSH 自己刷 B站 —— 读字幕原文挑内容、写日报，遇到值得看的会发评论 @ 你。"
       },
-      "homepage": "https://awesome-dsh-plugin.com/p/regrevia/dsh-unlag/",
+      "homepage": "https://awesome-dsh-plugin.com/p/c1overzz/dsh-bili-scroll/",
       "repository": {
-        "url": "https://github.com/regrevia/dsh-unlag"
+        "url": "https://github.com/c1overzz/dsh-bili-scroll"
       },
       "metadata": {
-        "category": "dev",
+        "category": "notify",
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 71089,
-          "stars": 54
+          "downloads": 75121,
+          "stars": 1393
         }
       },
       "versions": [
         {
-          "version": "1.17.5",
-          "publishTimestamp": 1794019532,
+          "version": "2.5.2",
+          "publishTimestamp": 1794500423,
           "source": {
             "type": "npm"
           },
           "engines": {
-            "dsh": ">=0.2.0-rc.1"
+            "dsh": ">=0.1.7-rc.1"
           }
         }
       ]
@@ -1404,8 +1371,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 69985,
-          "stars": 1264
+          "downloads": 73199,
+          "stars": 1268
         }
       },
       "versions": [
@@ -1417,6 +1384,39 @@
           },
           "engines": {
             "dsh": ">=0.2.1-rc.5 <0.3.0-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-unlag",
+      "title": "regrevia/dsh-unlag",
+      "description": {
+        "en": "The desktop app has its own refresh button. Edited a plugin but a run is still going? Refresh. Window sluggish after hours of use? Refresh. One button fixes…",
+        "zh": "DSH 桌面端自己的刷新按钮。开发插件要重启，可手里还有任务在跑？刷新一下！开久了页面越来越卡？刷新一下！一个按钮解决这些烦恼，正在进行的会话、排队消息和草稿都不受影响。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/regrevia/dsh-unlag/",
+      "repository": {
+        "url": "https://github.com/regrevia/dsh-unlag"
+      },
+      "metadata": {
+        "category": "dev",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 71948,
+          "stars": 55
+        }
+      },
+      "versions": [
+        {
+          "version": "1.17.5",
+          "publishTimestamp": 1794019532,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.1"
           }
         }
       ]
@@ -1437,14 +1437,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 67003,
-          "stars": 243
+          "downloads": 68529,
+          "stars": 247
         }
       },
       "versions": [
         {
-          "version": "1.2.29",
-          "publishTimestamp": 1794491782,
+          "version": "1.2.32",
+          "publishTimestamp": 1794594380,
           "source": {
             "type": "npm"
           },
@@ -1470,8 +1470,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 66712,
-          "stars": 979
+          "downloads": 68496,
+          "stars": 988
         }
       },
       "versions": [
@@ -1503,14 +1503,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 65518,
+          "downloads": 66906,
           "stars": 136
         }
       },
       "versions": [
         {
-          "version": "1.0.37",
-          "publishTimestamp": 1794471343,
+          "version": "1.0.38",
+          "publishTimestamp": 1794542380,
           "source": {
             "type": "npm"
           },
@@ -1536,8 +1536,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 59442,
-          "stars": 713
+          "downloads": 60994,
+          "stars": 717
         }
       },
       "versions": [
@@ -1567,52 +1567,19 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 58495,
-          "stars": 2906
+          "downloads": 60157,
+          "stars": 2927
         }
       },
       "versions": [
         {
-          "version": "0.1.29",
-          "publishTimestamp": 1793933836,
+          "version": "0.1.30",
+          "publishTimestamp": 1794540711,
           "source": {
             "type": "npm"
           },
           "engines": {
             "dsh": ">=0.1.2-alpha.2"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dsh-soul-md",
-      "title": "Scorp1o117/dsh-soul-md",
-      "description": {
-        "en": "Manage soul.md persona cards and long-term memory, with workspace and session persona selection and tools to read and update them.",
-        "zh": "管理 soul.md 人设卡与长期记忆，支持按工作区和会话选择人设，并提供读取和更新工具。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/Scorp1o117/dsh-soul-md/",
-      "repository": {
-        "url": "https://github.com/Scorp1o117/dsh-soul-md"
-      },
-      "metadata": {
-        "category": "memory",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 54590,
-          "stars": 40
-        }
-      },
-      "versions": [
-        {
-          "version": "0.12.3",
-          "publishTimestamp": 1794485422,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.0-rc.2 <0.3.0 || 0.2.1-rc.1 || 0.2.1-rc.2 || 0.2.1-rc.3 || 0.2.1-rc.4 || 0.2.1-rc.5 || 0.2.2-rc.1 || 0.2.2-rc.2"
           }
         }
       ]
@@ -1633,8 +1600,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 54506,
-          "stars": 2736
+          "downloads": 57851,
+          "stars": 2822
         }
       },
       "versions": [
@@ -1645,6 +1612,39 @@
             "type": "npm"
           },
           "engines": {}
+        }
+      ]
+    },
+    {
+      "name": "dsh-soul-md",
+      "title": "Scorp1o117/dsh-soul-md",
+      "description": {
+        "en": "Manage soul.md persona cards and long-term memory, with workspace and session persona selection and tools to read and update them.",
+        "zh": "管理 soul.md 人设卡与长期记忆，支持按工作区和会话选择人设，并提供读取和更新工具。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/Scorp1o117/dsh-soul-md/",
+      "repository": {
+        "url": "https://github.com/Scorp1o117/dsh-soul-md"
+      },
+      "metadata": {
+        "category": "memory",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 55812,
+          "stars": 41
+        }
+      },
+      "versions": [
+        {
+          "version": "0.12.3",
+          "publishTimestamp": 1794485422,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.2 <0.3.0 || 0.2.1-rc.1 || 0.2.1-rc.2 || 0.2.1-rc.3 || 0.2.1-rc.4 || 0.2.1-rc.5 || 0.2.2-rc.1 || 0.2.2-rc.2"
+          }
         }
       ]
     },
@@ -1665,8 +1665,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 49557,
-          "stars": 95975
+          "downloads": 51541,
+          "stars": 96245
         }
       },
       "versions": [
@@ -1697,8 +1697,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 49391,
-          "stars": 10355
+          "downloads": 51187,
+          "stars": 10384
         }
       },
       "versions": [
@@ -1728,14 +1728,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 48949,
-          "stars": 585
+          "downloads": 50413,
+          "stars": 596
         }
       },
       "versions": [
         {
-          "version": "0.20.3",
-          "publishTimestamp": 1794333780,
+          "version": "0.21.0",
+          "publishTimestamp": 1794553334,
           "source": {
             "type": "npm"
           },
@@ -1759,7 +1759,7 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 47584,
+          "downloads": 48782,
           "stars": 301
         }
       },
@@ -1790,7 +1790,7 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 44720,
+          "downloads": 46045,
           "stars": 33
         }
       },
@@ -1822,14 +1822,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 44516,
-          "stars": 42125
+          "downloads": 45856,
+          "stars": 42209
         }
       },
       "versions": [
         {
-          "version": "0.5.34",
-          "publishTimestamp": 1794236985,
+          "version": "0.5.36",
+          "publishTimestamp": 1794570575,
           "source": {
             "type": "npm"
           },
@@ -1853,8 +1853,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 42944,
-          "stars": 122
+          "downloads": 43753,
+          "stars": 125
         }
       },
       "versions": [
@@ -1884,19 +1884,52 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 41298,
+          "downloads": 42281,
           "stars": 40
         }
       },
       "versions": [
         {
-          "version": "1.0.23",
-          "publishTimestamp": 1794464579,
+          "version": "1.0.25",
+          "publishTimestamp": 1794552928,
           "source": {
             "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.0-rc.1 <0.3.0-0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-rewind-plugin",
+      "title": "SiriLee/dsh-rewind",
+      "description": {
+        "en": "Conversation rewind: one click back to any earlier user message, in the same window — no new branch, no leftover copy; the target message is refilled into the…",
+        "zh": "对话回退：一键回到任意更早的用户消息，同窗口内完成，不新建分支、不残留副本；目标消息自动填回输入框，可一并还原工作区文件——即完整的 Claude Code /rewind 语义。"
+      },
+      "homepage": "https://awesome-dsh-plugin.com/p/SiriLee/dsh-rewind/",
+      "repository": {
+        "url": "https://github.com/SiriLee/dsh-rewind"
+      },
+      "metadata": {
+        "category": "session",
+        "keywords": [],
+        "labels": [],
+        "sortKeys": {
+          "downloads": 41928,
+          "stars": 266
+        }
+      },
+      "versions": [
+        {
+          "version": "0.22.1",
+          "publishTimestamp": 1794462155,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1 <0.3.0-0"
           }
         }
       ]
@@ -1917,8 +1950,8 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 40578,
-          "stars": 86
+          "downloads": 41666,
+          "stars": 87
         }
       },
       "versions": [
@@ -1950,7 +1983,7 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 40221,
+          "downloads": 41562,
           "stars": 35
         }
       },
@@ -1963,39 +1996,6 @@
           },
           "engines": {
             "dsh": "^0.2.1-rc.5 || ^0.2.2-rc.2"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dsh-rewind-plugin",
-      "title": "SiriLee/dsh-rewind",
-      "description": {
-        "en": "Conversation rewind: one click back to any earlier user message, in the same window — no new branch, no leftover copy; the target message is refilled into the…",
-        "zh": "对话回退：一键回到任意更早的用户消息，同窗口内完成，不新建分支、不残留副本；目标消息自动填回输入框，可一并还原工作区文件——即完整的 Claude Code /rewind 语义。"
-      },
-      "homepage": "https://awesome-dsh-plugin.com/p/SiriLee/dsh-rewind/",
-      "repository": {
-        "url": "https://github.com/SiriLee/dsh-rewind"
-      },
-      "metadata": {
-        "category": "session",
-        "keywords": [],
-        "labels": [],
-        "sortKeys": {
-          "downloads": 39628,
-          "stars": 260
-        }
-      },
-      "versions": [
-        {
-          "version": "0.22.1",
-          "publishTimestamp": 1794462155,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.2-rc.1 <0.3.0-0"
           }
         }
       ]
@@ -2016,14 +2016,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 39275,
-          "stars": 249
+          "downloads": 40438,
+          "stars": 251
         }
       },
       "versions": [
         {
-          "version": "1.12.23",
-          "publishTimestamp": 1794535452,
+          "version": "1.12.28",
+          "publishTimestamp": 1794570716,
           "source": {
             "type": "npm"
           },
@@ -2035,7 +2035,7 @@
       "name": "dsh-mcp-connector",
       "title": "duhu2000/dsh-mcp-connector",
       "description": {
-        "en": "MCP Connector for DeepSeek Harness: a specialist MCP marketplace and manager panel for Model Context Protocol data sources. Connect enterprise, financial,…",
+        "en": "MCP Connector for DeepSeek Harness: a specialist MCP marketplace and MCP manager panel for Model Context Protocol data sources. Connect enterprise, financial,…",
         "zh": "MCP连接器：DeepSeek Harness 的专业 MCP 市场、数据市场与 MCP 管理面板，汇聚企业、金融、法律、专利、科研和地理等 Model Context Protocol（MCP）数据源。通过超百个 MCP连接器接入 MCP Server，支持连接管理、授权配置、跨连接搜索工具与排障；支持…"
       },
       "homepage": "https://awesome-dsh-plugin.com/p/duhu2000/dsh-mcp-connector/",
@@ -2047,14 +2047,14 @@
         "keywords": [],
         "labels": [],
         "sortKeys": {
-          "downloads": 37828,
-          "stars": 125
+          "downloads": 39680,
+          "stars": 126
         }
       },
       "versions": [
         {
-          "version": "0.2.102",
-          "publishTimestamp": 1794483617,
+          "version": "0.2.106",
+          "publishTimestamp": 1794573265,
           "source": {
             "type": "npm"
           },
